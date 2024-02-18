@@ -7,12 +7,120 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Following an estimated $120 million budget cut to early childhood education funding in November 2023 and an additional $50 million budget cut in January, West Harlem residents are increasingly concerned about a lack of early childhood education access."
+          },
+          {
+            "type": "text",
+            "value": "While the cuts will impact access to early childhood education citywide, in West Harlem, there is already a lack of affordable preschools, creating difficulties for parents and contributing to existing accessibility imbalances between school districts."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "early_childhood_ed.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“We need full-day seats in West Harlem, so the parents can actually utilize it, knowing that they can work and come back and pick up their kids at the end of the workday,” Naveed Hasan, a current Panel for Educational Policy representative, and current chair of P.S. 145M The Bloomingdale School’s Title I parent advisory council, said."
+          },
+          {
+            "type": "text",
+            "value": "Hasan said that the high cost of preschool programs is also a problem, contributing to a lack of accessibility regarding necessary childcare. While Hasan works from home and was able to watch his children when they were young, he said that this is not the reality for many parents in Morningside Heights."
+          },
+          {
+            "type": "text",
+            "value": "“One of the reasons a lot of the school system is suffering from enrollment losses is because it’s too expensive for families in New York City,” Hasan said. “The loss of both the educational part of early childhood and the childcare part of it is very important.”"
+          },
+          {
+            "type": "text",
+            "value": "For some parents, exorbitant costs of childcare lead them to decide between the quality of their child’s preschool education and their disposable income."
+          },
+          {
+            "type": "text",
+            "value": "“If [parents] don’t have the funds available to pay for a private program, it’s really hard to find a public program,” Alison Davis, senior associate director of the Barnard Toddler Center, said."
+          },
+          {
+            "type": "text",
+            "value": "Hasan said that many of his friends with small children left West Harlem due to a lack of early childhood education options."
+          },
+          {
+            "type": "text",
+            "value": "Citywide, residents have also noted that the public 4-K program was much more established in comparison to the 3-K program. Many early childhood education advocates, including Davis, stressed the importance of preschool as imperative for children’s development"
+          },
+          {
+            "type": "text",
+            "value": "“The importance of the foundation of early childhood programs is so important,” Davis said. “It gives children a first taste of being away from home, being in a school system.”"
+          },
+          {
+            "type": "text",
+            "value": "In West Harlem, where there are already few accessible and affordable childcare centers, the budget cuts could have an even bigger impact."
+          },
+          {
+            "type": "text",
+            "value": "“[The budget cut] will affect the kids tremendously,” Christina Collado, owner of Little Rays of Sunshine, a group family daycare in West Harlem, said. “This [age] is a beautiful time for kids to socialize and learn and become part of the community.”"
+          },
+          {
+            "type": "text",
+            "value": "The lack of accessible childcare in West Harlem is especially relevant in the wake of Columbia’s closure of the Red Balloon Learning Center in August 2023, which left many parents concerned about affordable preschool opportunities in West Harlem."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/city-news/2022/09/20/columbia-to-evict-long-standing-red-balloon-preschool-in-west-harlem/\"><i>Columbia to evict long-standing Red Balloon preschool in West Harlem</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Davis said that the lack of accessible preschools within West Harlem may exacerbate existing educational inequities."
+          },
+          {
+            "type": "text",
+            "value": "“You have to start leveling the playing field early,” Davis said. “You can’t wait until middle school or high school to change things.”"
+          },
+          {
+            "type": "text",
+            "value": "Collado said that the absence of many preschool programs in West Harlem places pressure on preexisting childcare centers and parents."
+          },
+          {
+            "type": "text",
+            "value": "“We do it all,” Collado said. “We change diapers, we cook meals, we teach them, we do everything. We are like the principal, we are like the teacher, we are like the nurse, we are like the office manager.”"
+          },
+          {
+            "type": "text",
+            "value": "For early childhood education advocates such as Collado, the focus lies in ensuring that the future holds more preschools that are accessible to a diverse population of students from varying socioeconomic levels."
+          },
+          {
+            "type": "text",
+            "value": "“It doesn’t matter what background each child has, they all deserve the best education that the city could provide,” Collado said."
+          },
+          {
+            "type": "text",
+            "value": "<i>Correction: A previous version of this article incorrectly stated that Naveed Hasan is a Community Education Council representative and that he currently watches his young son. Hasan is a Panel for Educational Policy representative and watched both his son and daughter before they began school in 2018 and 2023. Spectator regrets these errors.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Staff Writer Aiyana St. Hilaire can be contacted at </i><a href=\"mailto:aiyana.sthilaire@columbiaspectator.com\"><i>aiyana.sthilaire@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/aiyanast_hil\"><i>@Aiyanast_hil</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Molly Durawa can be contacted at </i><a href=\"mailto:molly.durawa@columbiaspectator.com\"><i>molly.durawa@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a>."
+          }
+        ],
+        "headline": "West Harlem residents express concern over lack of affordable preschools following budget cuts",
+        "date": "February 7, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/aiyana-st-hilaire/\">Aiyana St. Hilaire</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/molly-durawa/\">Molly Durawa</a>.",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/33JROIJERRADTDJCAIFVD4HUA4.jpg",
+        "cover_caption": "Judy Goldstein / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1GpD262-KDsmWWTIIm3-mqra52LZtBX06vntTNOLZiH0/edit"
       }
     }
   }
